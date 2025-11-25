@@ -1,9 +1,9 @@
 Install
 
-npm install react-router-dom tailwindcss apexcharts chart.js flowbite flowbite-react react-chartjs-2 
+npm install react-router-dom tailwindcss apexcharts chart.js flowbite flowbite-react react-chartjs-2 @tailwindcss/vite
 
 
-
+<!-- flowbite-react@latest init -->
 
 
 # React + Vite

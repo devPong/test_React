@@ -1,0 +1,9 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../../src/prisma/erp"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("ERP_DATABASE_URL")
+}
